@@ -11,8 +11,8 @@ required, no network required for editing.
 
 Grab the latest installer from the [Releases page](https://github.com/foxlabo/sumi/releases/latest):
 
-- **`Sumi_1.7.0_x64-setup.exe`** — NSIS installer (recommended, ~3 MB)
-- **`Sumi_1.7.0_x64_en-US.msi`** — MSI installer (~4 MB)
+- **`Sumi_1.8.0_x64-setup.exe`** — NSIS installer (recommended, ~3 MB)
+- **`Sumi_1.8.0_x64_en-US.msi`** — MSI installer (~4 MB)
 
 The binaries are unsigned, so Windows SmartScreen warns on first download
 and first run:
