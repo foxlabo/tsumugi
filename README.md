@@ -12,15 +12,18 @@ for editing.
 
 ## Download
 
-Grab the latest installer from the
-[Releases page](https://github.com/foxlabo/tsumugi/releases/latest):
+**One-click direct download — Windows x64:**
 
-- **`Tsumugi_1.11.6_x64-setup.exe`** — NSIS installer (recommended)
-- **`Tsumugi_1.11.6_x64_en-US.msi`** — MSI installer
+- 📥 **[Tsumugi_1.11.6_x64-setup.exe](https://github.com/foxlabo/tsumugi/releases/download/v1.11.6/Tsumugi_1.11.6_x64-setup.exe)** — NSIS installer (recommended)
+- 📥 **[Tsumugi_1.11.6_x64_en-US.msi](https://github.com/foxlabo/tsumugi/releases/download/v1.11.6/Tsumugi_1.11.6_x64_en-US.msi)** — MSI installer
+
+Other versions and full release notes:
+[Releases page](https://github.com/foxlabo/tsumugi/releases).
 
 > The GitHub-generated `Source code (zip/tar.gz)` archives attached to
-> each release contain only this repo's `README.md` and `LICENSE`.
-> The actual Windows installers are the `.exe` / `.msi` assets above.
+> each release contain only this repo's `README.md` and `LICENSE` —
+> ignore those. The Windows installers are the `.exe` / `.msi` links
+> above.
 
 The binaries are unsigned, so Windows SmartScreen warns on first
 download and first run:
