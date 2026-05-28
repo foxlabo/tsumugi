@@ -1,7 +1,6 @@
 # Tsumugi — 紡
 
-> AI-powered local text editor for Windows. A clean-room reimagining of
-> [Sakura Editor](https://sakura-editor.github.io/) with first-class AI
+> AI-powered local text editor for Windows with first-class AI
 > assistance built in.
 
 Tsumugi (紡 — "to spin / weave words") runs as a native Windows app
@@ -38,7 +37,7 @@ the warning will subside as more downloads accumulate.
 
 ## Features
 
-### Text editor (Sakura-replacement core)
+### Text editor
 
 - **Multiple tabs** with drag-to-reorder, pinning, context menu, inline rename.
 - **Syntax highlighting** for 30+ languages via the Monaco engine.
